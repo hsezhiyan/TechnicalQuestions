@@ -1,2 +1,2 @@
 # TechnicalQuestions
-Various technical questions to prepare for interviews.
+Various technical questions and solutions to prepare for interviews.
