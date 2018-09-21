@@ -9,5 +9,5 @@ letters should be treated as the same.
 *Input string*: 'Abba is cool'<br />
 *Output*: 'Abba'
 
-Input string: 'Hannah was selected, while Anna was not'<br />
-Output: 'Hannah'
+*Input string*: 'Hannah was selected, while Anna was not'<br />
+*Output*: 'Hannah'
