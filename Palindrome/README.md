@@ -6,8 +6,8 @@ letters should be treated as the same.
 
 **Example test cases**
 
-Input string: 'Abba is cool'
-Output: 'Abba'
+*Input string*: 'Abba is cool'<br />
+*Output*: 'Abba'
 
-Input string: 'Hannah was selected, while Anna was not'
+Input string: 'Hannah was selected, while Anna was not'<br />
 Output: 'Hannah'
